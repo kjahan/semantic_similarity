@@ -14,3 +14,5 @@ The Universal Sentence Encoder encodes text into high dimensional vectors that c
 [SBERT](https://www.sbert.net/docs/usage/semantic_textual_similarity.html)
 
 SentenceTransformers is a Python framework for state-of-the-art sentence, text and image embeddings. The initial work is described in our paper [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf).
+
+[Image Search](https://www.sbert.net/examples/applications/image-search/README.html)
