@@ -24,6 +24,6 @@ SentenceTransformers is a Python framework for state-of-the-art sentence, text a
 
 [Image Search Notebook](examples/colab/Image_Search.ipynb)
 
-## Image Encoder
+## Image AutoEncoders
 
-[Encoder Notebook](examples/colab/img_encoder.ipynb)
+[Encoder Notebook](examples/colab/img_auto_encoder.ipynb)
